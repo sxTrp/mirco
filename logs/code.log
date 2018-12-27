@@ -1,0 +1,554 @@
+2018-12-24 16:51:08,957||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-24 16:51:08,958||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 16:51:08,958||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-24 16:51:08,959||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 16:51:08,959||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 16:51:08,988||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 16:52:43,827||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-24 16:52:43,829||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 16:52:43,833||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-24 16:52:43,834||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 16:52:43,835||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 16:52:43,880||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 16:53:51,066||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-24 16:53:51,068||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 16:53:51,070||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-24 16:53:51,073||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 16:53:51,073||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 16:53:51,120||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 16:54:11,088||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 16:54:11,122||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 16:54:26,206||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-24 16:54:26,206||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 16:54:26,207||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-24 16:54:26,208||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 16:54:26,208||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 16:54:26,241||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 16:54:26,250||INFO||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||work begin and params is ('ts_dms', '{"token": "67fbc76a5ecb4ffc9a0c6f6458076d16", "session_id": "6938ca9c1ce2477d93af4c680877f27d", "transaction_id": 17, "audio_url": "/data01/robot_resource/6_6_547/record/6938ca9c1ce2477d93af4c680877f27d.wav", "lyric_url": "/data01/robot_resource/6_6_547/record/6938ca9c1ce2477d93af4c680877f27d.lrc", "audio_text": "", "audio_tx_url": "/data01/robot_resource/6_6_547/record/6938ca9c1ce2477d93af4c680877f27d_tx.wav", "audio_rx_url": "/data01/robot_resource/6_6_547/record/6938ca9c1ce2477d93af4c680877f27d_rx.wav", "stime": "2018-10-26 11:35:20", "etime": "2018-10-26 11:36:54", "ctime": "2018-10-26 11:35:20", "status": 0, "instance_id": "6938ca9c1ce2477d93af4c680877f27d", "scode": 0, "iflytek_appid": "5bc46411", "iflytek_ring_count": 1, "iflytek_speech_count": 16}')
+2018-12-24 16:54:31,256||INFO||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||work end and params is ('ts_dms', '{"token": "67fbc76a5ecb4ffc9a0c6f6458076d16", "session_id": "6938ca9c1ce2477d93af4c680877f27d", "transaction_id": 17, "audio_url": "/data01/robot_resource/6_6_547/record/6938ca9c1ce2477d93af4c680877f27d.wav", "lyric_url": "/data01/robot_resource/6_6_547/record/6938ca9c1ce2477d93af4c680877f27d.lrc", "audio_text": "", "audio_tx_url": "/data01/robot_resource/6_6_547/record/6938ca9c1ce2477d93af4c680877f27d_tx.wav", "audio_rx_url": "/data01/robot_resource/6_6_547/record/6938ca9c1ce2477d93af4c680877f27d_rx.wav", "stime": "2018-10-26 11:35:20", "etime": "2018-10-26 11:36:54", "ctime": "2018-10-26 11:35:20", "status": 0, "instance_id": "6938ca9c1ce2477d93af4c680877f27d", "scode": 0, "iflytek_appid": "5bc46411", "iflytek_ring_count": 1, "iflytek_speech_count": 16}')
+2018-12-24 16:54:31,257||INFO||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||work begin and params is ('ts_dms', '{"token": "67fbc76a5ecb4ffc9a0c6f6458076d16", "session_id": "6938ca9c1ce2477d93af4c680877f27d", "transaction_id": 17, "audio_url": "/data01/robot_resource/6_6_547/record/6938ca9c1ce2477d93af4c680877f27d.wav", "lyric_url": "/data01/robot_resource/6_6_547/record/6938ca9c1ce2477d93af4c680877f27d.lrc", "audio_text": "", "audio_tx_url": "/data01/robot_resource/6_6_547/record/6938ca9c1ce2477d93af4c680877f27d_tx.wav", "audio_rx_url": "/data01/robot_resource/6_6_547/record/6938ca9c1ce2477d93af4c680877f27d_rx.wav", "stime": "2018-10-26 11:35:20", "etime": "2018-10-26 11:36:54", "ctime": "2018-10-26 11:35:20", "status": 0, "instance_id": "6938ca9c1ce2477d93af4c680877f27d", "scode": 0, "iflytek_appid": "5bc46411", "iflytek_ring_count": 1, "iflytek_speech_count": 16}')
+2018-12-24 16:54:36,260||INFO||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||work end and params is ('ts_dms', '{"token": "67fbc76a5ecb4ffc9a0c6f6458076d16", "session_id": "6938ca9c1ce2477d93af4c680877f27d", "transaction_id": 17, "audio_url": "/data01/robot_resource/6_6_547/record/6938ca9c1ce2477d93af4c680877f27d.wav", "lyric_url": "/data01/robot_resource/6_6_547/record/6938ca9c1ce2477d93af4c680877f27d.lrc", "audio_text": "", "audio_tx_url": "/data01/robot_resource/6_6_547/record/6938ca9c1ce2477d93af4c680877f27d_tx.wav", "audio_rx_url": "/data01/robot_resource/6_6_547/record/6938ca9c1ce2477d93af4c680877f27d_rx.wav", "stime": "2018-10-26 11:35:20", "etime": "2018-10-26 11:36:54", "ctime": "2018-10-26 11:35:20", "status": 0, "instance_id": "6938ca9c1ce2477d93af4c680877f27d", "scode": 0, "iflytek_appid": "5bc46411", "iflytek_ring_count": 1, "iflytek_speech_count": 16}')
+2018-12-24 16:54:36,261||INFO||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||work begin and params is ('ts_dms', '{"token": "67fbc76a5ecb4ffc9a0c6f6458076d16", "session_id": "6938ca9c1ce2477d93af4c680877f27d", "transaction_id": 17, "audio_url": "/data01/robot_resource/6_6_547/record/6938ca9c1ce2477d93af4c680877f27d.wav", "lyric_url": "/data01/robot_resource/6_6_547/record/6938ca9c1ce2477d93af4c680877f27d.lrc", "audio_text": "", "audio_tx_url": "/data01/robot_resource/6_6_547/record/6938ca9c1ce2477d93af4c680877f27d_tx.wav", "audio_rx_url": "/data01/robot_resource/6_6_547/record/6938ca9c1ce2477d93af4c680877f27d_rx.wav", "stime": "2018-10-26 11:35:20", "etime": "2018-10-26 11:36:54", "ctime": "2018-10-26 11:35:20", "status": 0, "instance_id": "6938ca9c1ce2477d93af4c680877f27d", "scode": 0, "iflytek_appid": "5bc46411", "iflytek_ring_count": 1, "iflytek_speech_count": 16}')
+2018-12-24 16:54:44,757||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-24 16:54:44,758||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 16:54:44,759||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 16:54:44,791||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 16:54:52,454||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-24 16:54:52,455||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 16:54:52,456||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 16:54:52,490||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 16:54:59,149||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-24 16:54:59,150||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 16:54:59,151||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-24 16:54:59,151||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 16:54:59,152||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 16:54:59,184||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 16:55:37,832||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-24 16:55:37,833||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 16:55:37,834||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-24 16:55:37,834||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 16:55:37,835||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 16:55:37,876||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 16:55:55,635||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-24 16:55:55,636||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 16:55:55,637||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 16:55:55,672||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 16:59:29,691||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '0')
+2018-12-24 16:59:29,751||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 16:59:29,791||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 16:59:29,869||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '1')
+2018-12-24 16:59:29,873||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '2')
+2018-12-24 16:59:29,876||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '3')
+2018-12-24 16:59:29,879||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '4')
+2018-12-24 16:59:29,882||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '5')
+2018-12-24 16:59:29,886||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '6')
+2018-12-24 16:59:29,892||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '7')
+2018-12-24 16:59:29,898||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '8')
+2018-12-24 16:59:29,901||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '9')
+2018-12-24 17:00:36,363||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '0')
+2018-12-24 17:00:36,367||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '1')
+2018-12-24 17:00:36,370||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '2')
+2018-12-24 17:00:36,374||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '3')
+2018-12-24 17:00:36,378||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '4')
+2018-12-24 17:00:36,383||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '5')
+2018-12-24 17:00:36,393||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '6')
+2018-12-24 17:00:36,402||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '7')
+2018-12-24 17:00:36,410||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '8')
+2018-12-24 17:00:36,414||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '9')
+2018-12-24 17:02:30,424||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-24 17:02:30,425||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 17:02:30,426||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 17:02:30,458||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 17:02:35,187||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '0')
+2018-12-24 17:02:35,197||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '1')
+2018-12-24 17:02:35,209||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '2')
+2018-12-24 17:02:35,213||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '3')
+2018-12-24 17:02:35,223||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '4')
+2018-12-24 17:02:35,231||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '5')
+2018-12-24 17:02:35,235||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '6')
+2018-12-24 17:02:35,238||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '7')
+2018-12-24 17:02:35,245||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '8')
+2018-12-24 17:02:35,252||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '9')
+2018-12-24 17:04:18,152||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-24 17:04:18,153||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 17:04:18,154||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 17:04:18,181||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 17:04:23,627||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '0')
+2018-12-24 17:04:23,672||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-24 17:04:23,673||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 17:04:23,674||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 17:04:23,709||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 17:04:23,765||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '1')
+2018-12-24 17:04:23,769||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '2')
+2018-12-24 17:04:23,772||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '3')
+2018-12-24 17:04:23,775||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '4')
+2018-12-24 17:04:23,778||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '5')
+2018-12-24 17:04:23,781||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '6')
+2018-12-24 17:04:23,784||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '7')
+2018-12-24 17:04:23,787||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '8')
+2018-12-24 17:04:23,790||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '9')
+2018-12-24 17:05:52,225||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-24 17:05:52,226||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 17:05:52,227||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-24 17:05:52,228||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 17:05:52,228||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 17:05:52,258||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 17:06:03,779||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '0')
+2018-12-24 17:06:03,865||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-24 17:06:03,866||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 17:06:03,866||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-24 17:06:03,867||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 17:06:03,867||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 17:06:03,905||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 17:06:03,969||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '1')
+2018-12-24 17:06:03,973||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '2')
+2018-12-24 17:06:03,978||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '3')
+2018-12-24 17:06:03,981||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '4')
+2018-12-24 17:06:03,984||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '5')
+2018-12-24 17:06:03,987||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '6')
+2018-12-24 17:06:03,990||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '7')
+2018-12-24 17:06:03,994||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '8')
+2018-12-24 17:06:04,003||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '9')
+2018-12-24 17:06:18,515||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '0')
+2018-12-24 17:06:18,519||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '1')
+2018-12-24 17:06:18,522||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '2')
+2018-12-24 17:06:18,525||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '3')
+2018-12-24 17:06:18,529||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '4')
+2018-12-24 17:06:18,534||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '5')
+2018-12-24 17:06:18,545||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '6')
+2018-12-24 17:06:18,554||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '7')
+2018-12-24 17:06:18,562||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '8')
+2018-12-24 17:06:18,567||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '9')
+2018-12-24 17:08:18,442||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-24 17:08:18,443||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 17:08:18,444||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-24 17:08:18,445||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 17:08:18,445||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 17:08:18,496||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 17:08:26,286||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '0')
+2018-12-24 17:08:26,290||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '1')
+2018-12-24 17:08:26,293||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '2')
+2018-12-24 17:08:26,300||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '3')
+2018-12-24 17:08:26,311||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '4')
+2018-12-24 17:08:26,320||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '5')
+2018-12-24 17:08:26,327||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '6')
+2018-12-24 17:08:26,338||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '7')
+2018-12-24 17:08:26,345||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '8')
+2018-12-24 17:08:26,351||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '9')
+2018-12-24 17:09:26,683||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-24 17:09:26,683||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 17:09:26,684||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-24 17:09:26,685||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 17:09:26,685||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 17:09:26,704||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 17:09:31,516||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 17:09:31,550||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 17:10:39,023||INFO||/home/sinb/not_fork/label/tools/logger.py||<module>||18||Here is a very exciting log message, just for you
+2018-12-24 17:11:02,927||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-24 17:11:02,928||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 17:11:02,929||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 17:11:02,972||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 17:11:09,277||INFO||/home/sinb/not_fork/label/tools/logger.py||<module>||18||Here is a very exciting log message, just for you
+2018-12-24 17:11:21,094||INFO||/home/sinb/not_fork/label/tools/logger.py||<module>||18||Here is a very exciting log message, just for you
+2018-12-24 17:11:37,468||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 17:11:37,506||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 17:17:40,157||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-24 17:17:40,158||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 17:17:40,159||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-24 17:17:40,160||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 17:17:40,160||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 17:17:40,188||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 17:17:43,882||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '0')
+2018-12-24 17:17:43,959||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-24 17:17:43,961||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 17:17:43,962||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 17:17:43,985||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 17:17:44,046||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '1')
+2018-12-24 17:17:44,050||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '2')
+2018-12-24 17:17:44,053||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '3')
+2018-12-24 17:17:44,056||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '4')
+2018-12-24 17:17:44,059||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '5')
+2018-12-24 17:17:44,062||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '6')
+2018-12-24 17:17:44,065||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '7')
+2018-12-24 17:17:44,068||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '8')
+2018-12-24 17:17:44,071||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '9')
+2018-12-24 17:20:38,868||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-24 17:20:38,868||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 17:20:38,869||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 17:20:38,894||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 17:20:39,102||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/consumer/connection.py||start||24||Connected to sentinel://:**@10.10.1.80:26379/2
+2018-12-24 17:20:39,121||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/consumer/mingle.py||sync||43||mingle: searching for neighbors
+2018-12-24 17:20:40,153||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/consumer/mingle.py||sync||52||mingle: all alone
+2018-12-24 17:20:40,181||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/apps/worker.py||on_consumer_ready||160||celery@sinb ready.
+2018-12-24 17:20:40,782||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/events/state.py||_warn_drift||113||Substantial drift from celery@016b661fa678 may mean clocks are out of sync.  Current drift is
+28805 seconds.  [orig: 2018-12-24 17:20:40.782135 recv: 2018-12-24 09:20:35.139263]
+
+2018-12-24 17:20:40,784||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/events/state.py||_warn_drift||113||Substantial drift from celery@smart-collection-ffd6587df-mg5wj may mean clocks are out of sync.  Current drift is
+28805 seconds.  [orig: 2018-12-24 17:20:40.784240 recv: 2018-12-24 09:20:35.141366]
+
+2018-12-24 17:20:40,790||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/events/state.py||_warn_drift||113||Substantial drift from celery@smart-collection-ffd6587df-4mjlx may mean clocks are out of sync.  Current drift is
+28805 seconds.  [orig: 2018-12-24 17:20:40.790111 recv: 2018-12-24 09:20:35.147251]
+
+2018-12-24 17:20:40,852||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/control.py||enable_events||281||Events of group {task} enabled by remote.
+2018-12-24 17:20:42,395||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '0')
+2018-12-24 17:20:42,406||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '1')
+2018-12-24 17:20:42,409||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '2')
+2018-12-24 17:20:42,417||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '3')
+2018-12-24 17:20:42,424||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '4')
+2018-12-24 17:20:42,428||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '5')
+2018-12-24 17:20:42,432||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '6')
+2018-12-24 17:20:42,435||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '7')
+2018-12-24 17:20:42,439||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '8')
+2018-12-24 17:20:42,441||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[3536ee11-926c-4547-90d9-6e63c06c081b]  
+2018-12-24 17:20:42,442||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '9')
+2018-12-24 17:20:42,446||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[2c994b48-0075-47b5-9e64-392b422c2aed]  
+2018-12-24 17:20:42,447||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:20:42,447||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:20:42,451||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[19806b71-0756-44d6-a1d3-81c677f2aae7]  
+2018-12-24 17:20:42,458||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[6073e437-fd30-48a8-afea-2dd6d44fdc66]  
+2018-12-24 17:20:42,459||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:20:42,459||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:20:42,464||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[9a5d1ffe-5a0e-4f26-9c05-524523d2f56b]  
+2018-12-24 17:20:42,475||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[146aa12f-5fda-4507-ba73-7b9f418a9d64]  
+2018-12-24 17:20:42,479||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[80ce155d-df0f-4240-9ec0-620a4eb14cdb]  
+2018-12-24 17:20:42,483||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[75933afc-5fa2-4f25-9799-5cc18c81a7cc]  
+2018-12-24 17:20:42,487||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[af3912d6-4c52-4c12-92ff-8ee9fe1d5d05]  
+2018-12-24 17:20:42,492||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[80a11c5a-005c-4eb6-9f69-2b3f83187481]  
+2018-12-24 17:20:47,449||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:20:47,450||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[2c994b48-0075-47b5-9e64-392b422c2aed] succeeded in 5.003012980001586s: None
+2018-12-24 17:20:47,452||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:20:47,454||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[3536ee11-926c-4547-90d9-6e63c06c081b] succeeded in 5.007120065998606s: None
+2018-12-24 17:20:47,457||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:20:47,457||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:20:47,464||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:20:47,464||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:20:47,465||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[19806b71-0756-44d6-a1d3-81c677f2aae7] succeeded in 5.005625302999761s: None
+2018-12-24 17:20:47,465||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[6073e437-fd30-48a8-afea-2dd6d44fdc66] succeeded in 5.005841505999342s: None
+2018-12-24 17:20:47,468||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:20:47,468||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:20:49,269||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '0')
+2018-12-24 17:20:49,273||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '1')
+2018-12-24 17:20:49,274||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[3212086f-fbd5-4ad4-9569-59d78683679c]  
+2018-12-24 17:20:49,276||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '2')
+2018-12-24 17:20:49,278||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[086b7e2d-9b35-432a-9202-e87bb73fe093]  
+2018-12-24 17:20:49,280||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '3')
+2018-12-24 17:20:49,282||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[31fa33e1-45a8-4bdb-b6ff-2e939e0e0cb6]  
+2018-12-24 17:20:49,283||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '4')
+2018-12-24 17:20:49,286||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '5')
+2018-12-24 17:20:49,287||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[69be6b13-391b-4f3e-a598-d66b8ad2c17a]  
+2018-12-24 17:20:49,290||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '6')
+2018-12-24 17:20:49,291||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[115fa147-bc10-4aaf-aece-fdaff78ac734]  
+2018-12-24 17:20:49,294||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '7')
+2018-12-24 17:20:49,295||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[6bd92c78-723d-4403-b5f3-87526e134647]  
+2018-12-24 17:20:49,297||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '8')
+2018-12-24 17:20:49,299||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[ad9a80c9-857f-4e02-91a1-a571bd8dcef3]  
+2018-12-24 17:20:49,301||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '9')
+2018-12-24 17:20:49,307||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[8b4d441f-ce5f-4014-9ca3-fa543f21048e]  
+2018-12-24 17:20:49,313||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[70eae16c-1481-4302-9aaa-3248288d4af4]  
+2018-12-24 17:20:49,320||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[3403fb6b-4be0-4152-bd24-9653b3b4ac54]  
+2018-12-24 17:20:52,462||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:20:52,462||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:20:52,462||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[146aa12f-5fda-4507-ba73-7b9f418a9d64] succeeded in 5.005442923000373s: None
+2018-12-24 17:20:52,462||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[9a5d1ffe-5a0e-4f26-9c05-524523d2f56b] succeeded in 5.005501323999852s: None
+2018-12-24 17:20:52,466||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:20:52,466||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:20:52,473||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:20:52,473||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:20:52,475||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[80ce155d-df0f-4240-9ec0-620a4eb14cdb] succeeded in 5.006589107000764s: None
+2018-12-24 17:20:52,475||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[75933afc-5fa2-4f25-9799-5cc18c81a7cc] succeeded in 5.006624202000239s: None
+2018-12-24 17:20:52,477||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:20:52,477||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:20:57,470||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:20:57,471||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:20:57,477||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[80a11c5a-005c-4eb6-9f69-2b3f83187481] succeeded in 5.011787654000727s: None
+2018-12-24 17:20:57,478||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[af3912d6-4c52-4c12-92ff-8ee9fe1d5d05] succeeded in 5.0122082060006505s: None
+2018-12-24 17:20:57,480||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:20:57,480||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[086b7e2d-9b35-432a-9202-e87bb73fe093] succeeded in 5.002696710000237s: None
+2018-12-24 17:20:57,480||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:20:57,480||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:20:57,482||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:20:57,483||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[3212086f-fbd5-4ad4-9569-59d78683679c] succeeded in 5.005380900000091s: None
+2018-12-24 17:20:57,487||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:20:57,487||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:21:02,485||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:21:02,485||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:21:02,486||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[31fa33e1-45a8-4bdb-b6ff-2e939e0e0cb6] succeeded in 5.005620452000585s: None
+2018-12-24 17:21:02,486||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[69be6b13-391b-4f3e-a598-d66b8ad2c17a] succeeded in 5.0055582509994565s: None
+2018-12-24 17:21:02,492||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:21:02,492||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[6bd92c78-723d-4403-b5f3-87526e134647] succeeded in 5.004944999000145s: None
+2018-12-24 17:21:02,492||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:21:02,492||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[115fa147-bc10-4aaf-aece-fdaff78ac734] succeeded in 5.005298727000991s: None
+2018-12-24 17:21:02,494||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:21:02,494||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:21:02,494||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:21:02,495||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:21:03,097||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '0')
+2018-12-24 17:21:03,132||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-24 17:21:03,133||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 17:21:03,133||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 17:21:03,172||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 17:21:03,227||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '1')
+2018-12-24 17:21:03,228||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[770008b3-43e2-4bee-b149-99949c84c22e]  
+2018-12-24 17:21:03,230||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '2')
+2018-12-24 17:21:03,232||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[5575622c-5c28-4013-a89b-a1d8c4d73233]  
+2018-12-24 17:21:03,234||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '3')
+2018-12-24 17:21:03,235||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[00e601c4-cfe2-4b35-b6ed-bcac21a8f9a5]  
+2018-12-24 17:21:03,237||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '4')
+2018-12-24 17:21:03,239||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[b3baff4e-b48b-48a8-a1c5-3fb527b06ef6]  
+2018-12-24 17:21:03,240||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '5')
+2018-12-24 17:21:03,243||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '6')
+2018-12-24 17:21:03,243||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[bb28d1e2-a975-4474-b499-a37af42103b9]  
+2018-12-24 17:21:03,246||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '7')
+2018-12-24 17:21:03,247||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[3de46095-49fd-4289-a6f6-2bb622ee8618]  
+2018-12-24 17:21:03,249||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '8')
+2018-12-24 17:21:03,251||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[cb5963fa-6d4e-4f3e-9bcb-85ecbf0c15da]  
+2018-12-24 17:21:03,253||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '9')
+2018-12-24 17:21:03,255||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[0e9af60e-3f0a-4926-b8de-d5181fad6b5c]  
+2018-12-24 17:21:03,260||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[05e4b02a-6781-495f-8670-c861af652d77]  
+2018-12-24 17:21:03,263||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[16e7b070-c557-42ec-a56a-b6f389175f04]  
+2018-12-24 17:21:07,496||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:21:07,496||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[8b4d441f-ce5f-4014-9ca3-fa543f21048e] succeeded in 5.002269828000863s: None
+2018-12-24 17:21:07,497||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:21:07,499||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:21:07,500||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[3403fb6b-4be0-4152-bd24-9653b3b4ac54] succeeded in 5.005595804999757s: None
+2018-12-24 17:21:07,500||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[ad9a80c9-857f-4e02-91a1-a571bd8dcef3] succeeded in 5.0063891029985825s: None
+2018-12-24 17:21:07,497||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:21:07,501||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[70eae16c-1481-4302-9aaa-3248288d4af4] succeeded in 5.006861767000373s: None
+2018-12-24 17:21:07,503||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:21:07,503||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:21:07,504||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:21:07,504||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:21:12,508||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:21:12,508||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:21:12,508||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[770008b3-43e2-4bee-b149-99949c84c22e] succeeded in 5.004917117001241s: None
+2018-12-24 17:21:12,508||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[00e601c4-cfe2-4b35-b6ed-bcac21a8f9a5] succeeded in 5.00483703899954s: None
+2018-12-24 17:21:12,509||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:21:12,509||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:21:12,509||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[5575622c-5c28-4013-a89b-a1d8c4d73233] succeeded in 5.005590232000031s: None
+2018-12-24 17:21:12,509||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[b3baff4e-b48b-48a8-a1c5-3fb527b06ef6] succeeded in 5.005497912001374s: None
+2018-12-24 17:21:12,512||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:21:12,512||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:21:12,512||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:21:12,512||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:21:17,513||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:21:17,513||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[cb5963fa-6d4e-4f3e-9bcb-85ecbf0c15da] succeeded in 5.001180459999887s: None
+2018-12-24 17:21:17,516||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:21:17,516||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:21:17,516||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[bb28d1e2-a975-4474-b499-a37af42103b9] succeeded in 5.004504385000473s: None
+2018-12-24 17:21:17,516||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[3de46095-49fd-4289-a6f6-2bb622ee8618] succeeded in 5.004504377999183s: None
+2018-12-24 17:21:17,516||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:21:17,517||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:21:17,517||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[0e9af60e-3f0a-4926-b8de-d5181fad6b5c] succeeded in 5.004603975001373s: None
+2018-12-24 17:21:17,521||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:21:22,520||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:21:22,520||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[05e4b02a-6781-495f-8670-c861af652d77] succeeded in 5.004538518000118s: None
+2018-12-24 17:21:22,524||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:21:22,524||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[16e7b070-c557-42ec-a56a-b6f389175f04] succeeded in 5.002962534999824s: None
+2018-12-24 17:22:58,124||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 17:22:58,149||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 17:22:58,394||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/consumer/connection.py||start||24||Connected to sentinel://:**@10.10.1.80:26379/2
+2018-12-24 17:22:58,408||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/consumer/mingle.py||sync||43||mingle: searching for neighbors
+2018-12-24 17:22:59,452||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/consumer/mingle.py||sync||52||mingle: all alone
+2018-12-24 17:22:59,490||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/apps/worker.py||on_consumer_ready||160||celery@sinb ready.
+2018-12-24 17:23:00,075||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/control.py||enable_events||281||Events of group {task} enabled by remote.
+2018-12-24 17:23:00,941||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/events/state.py||_warn_drift||113||Substantial drift from celery@016b661fa678 may mean clocks are out of sync.  Current drift is
+28805 seconds.  [orig: 2018-12-24 17:23:00.940913 recv: 2018-12-24 09:22:55.296009]
+
+2018-12-24 17:23:00,942||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/events/state.py||_warn_drift||113||Substantial drift from celery@smart-collection-ffd6587df-mg5wj may mean clocks are out of sync.  Current drift is
+28805 seconds.  [orig: 2018-12-24 17:23:00.942207 recv: 2018-12-24 09:22:55.297243]
+
+2018-12-24 17:23:00,951||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/events/state.py||_warn_drift||113||Substantial drift from celery@smart-collection-ffd6587df-4mjlx may mean clocks are out of sync.  Current drift is
+28805 seconds.  [orig: 2018-12-24 17:23:00.951006 recv: 2018-12-24 09:22:55.305942]
+
+2018-12-24 17:23:05,786||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '0')
+2018-12-24 17:23:05,845||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-24 17:23:05,845||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 17:23:05,846||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-24 17:23:05,847||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-24 17:23:05,847||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 17:23:05,883||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 17:23:05,947||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '1')
+2018-12-24 17:23:05,950||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '2')
+2018-12-24 17:23:05,953||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '3')
+2018-12-24 17:23:05,957||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '4')
+2018-12-24 17:23:05,961||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '5')
+2018-12-24 17:23:05,964||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '6')
+2018-12-24 17:23:05,967||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '7')
+2018-12-24 17:23:05,969||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[ddcaffaf-2362-4774-b372-12936e5b5900]  
+2018-12-24 17:23:05,970||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '8')
+2018-12-24 17:23:05,975||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '9')
+2018-12-24 17:23:05,976||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[067adce0-b3c2-415b-8a87-9bf59fa406b8]  
+2018-12-24 17:23:05,978||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:23:05,978||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:23:05,984||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[63bb7717-c1f7-40e9-ad4d-24dd38f13b1f]  
+2018-12-24 17:23:05,992||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[d3930041-439a-4742-9de0-0aab2a9fabf2]  
+2018-12-24 17:23:05,995||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:23:05,994||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:23:06,006||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[ffe781a4-3368-4d73-8868-af39446b751b]  
+2018-12-24 17:23:06,014||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[6f0f1f99-3e9a-49b1-ba15-50a51cc817b3]  
+2018-12-24 17:23:06,020||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[37ab13b9-5a85-455a-8218-38bdd16e24a1]  
+2018-12-24 17:23:06,032||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[5853727e-23ef-4401-a89c-4b9fcba72139]  
+2018-12-24 17:23:06,037||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[caef1da2-4be1-41ea-a1ae-24efc32644a7]  
+2018-12-24 17:23:06,042||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[54d0ee83-3ddd-4e35-9928-60fdc22e3328]  
+2018-12-24 17:23:10,980||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:23:10,981||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[067adce0-b3c2-415b-8a87-9bf59fa406b8] succeeded in 5.002793785000904s: None
+2018-12-24 17:23:10,981||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:23:10,982||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[ddcaffaf-2362-4774-b372-12936e5b5900] succeeded in 5.0038492740004585s: None
+2018-12-24 17:23:10,984||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:23:10,984||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:23:11,004||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:23:11,005||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:23:11,007||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[d3930041-439a-4742-9de0-0aab2a9fabf2] succeeded in 5.013471988999299s: None
+2018-12-24 17:23:11,007||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[63bb7717-c1f7-40e9-ad4d-24dd38f13b1f] succeeded in 5.013656424000146s: None
+2018-12-24 17:23:11,010||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:23:11,010||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:23:15,984||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:23:15,984||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[ffe781a4-3368-4d73-8868-af39446b751b] succeeded in 5.000839864998852s: None
+2018-12-24 17:23:15,987||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:23:15,989||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:23:15,989||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[6f0f1f99-3e9a-49b1-ba15-50a51cc817b3] succeeded in 5.0058162469995295s: None
+2018-12-24 17:23:15,992||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:23:16,015||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:23:16,015||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:23:16,016||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[37ab13b9-5a85-455a-8218-38bdd16e24a1] succeeded in 5.005895959000554s: None
+2018-12-24 17:23:16,016||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[5853727e-23ef-4401-a89c-4b9fcba72139] succeeded in 5.005876788000023s: None
+2018-12-24 17:23:20,990||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:23:20,990||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[caef1da2-4be1-41ea-a1ae-24efc32644a7] succeeded in 5.003552592001142s: None
+2018-12-24 17:23:20,995||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:23:20,995||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[54d0ee83-3ddd-4e35-9928-60fdc22e3328] succeeded in 5.003151319000608s: None
+2018-12-24 17:53:19,890||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '0')
+2018-12-24 17:53:19,943||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-24 17:53:19,966||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-24 17:53:20,053||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '1')
+2018-12-24 17:53:20,054||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[2ee0af47-3ce7-4f7a-8d9c-787779eb9eb7]  
+2018-12-24 17:53:20,057||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '2')
+2018-12-24 17:53:20,058||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[384898e2-d39a-41e0-a708-f63d50eab050]  
+2018-12-24 17:53:20,059||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:53:20,059||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:53:20,061||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '3')
+2018-12-24 17:53:20,062||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[73fc6389-f91c-4431-9425-b5c447f2f8f7]  
+2018-12-24 17:53:20,064||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '4')
+2018-12-24 17:53:20,068||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '5')
+2018-12-24 17:53:20,070||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[85c509d9-067c-469e-b28d-eed87c0fe8a0]  
+2018-12-24 17:53:20,071||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:53:20,071||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:53:20,072||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '6')
+2018-12-24 17:53:20,076||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[b8e46253-b336-40b4-b681-20a3501f06dc]  
+2018-12-24 17:53:20,079||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '7')
+2018-12-24 17:53:20,085||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '8')
+2018-12-24 17:53:20,089||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[fdc5c440-5e96-43b7-90db-3109a64b3bdc]  
+2018-12-24 17:53:20,090||INFO||/home/sinb/not_fork/label/consumer/dms_consumer.py||<module>||18||receive task ('ts_dms', '9')
+2018-12-24 17:53:20,095||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[538e6862-e287-4a6c-8bdf-4f68c95c3afd]  
+2018-12-24 17:53:20,105||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[b65542fd-77ef-4300-b170-9687764ba805]  
+2018-12-24 17:53:20,109||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[009d01b7-3902-4b58-84b3-16849ff5e278]  
+2018-12-24 17:53:20,113||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/strategy.py||task_message_handler||156||Received task: tasks.dms_worker.dms_work[2bd96cc6-991a-4231-8684-97853816b381]  
+2018-12-24 17:53:25,064||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:53:25,064||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[384898e2-d39a-41e0-a708-f63d50eab050] succeeded in 5.005468498000482s: None
+2018-12-24 17:53:25,065||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:53:25,066||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[2ee0af47-3ce7-4f7a-8d9c-787779eb9eb7] succeeded in 5.006692065999232s: None
+2018-12-24 17:53:25,070||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:53:25,070||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:53:25,076||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:53:25,076||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:53:25,076||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[85c509d9-067c-469e-b28d-eed87c0fe8a0] succeeded in 5.00554585899954s: None
+2018-12-24 17:53:25,076||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[73fc6389-f91c-4431-9425-b5c447f2f8f7] succeeded in 5.005809276000946s: None
+2018-12-24 17:53:25,080||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:53:25,080||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:53:30,075||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:53:30,075||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:53:30,075||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[fdc5c440-5e96-43b7-90db-3109a64b3bdc] succeeded in 5.005036755999754s: None
+2018-12-24 17:53:30,075||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[b8e46253-b336-40b4-b681-20a3501f06dc] succeeded in 5.0051174180007365s: None
+2018-12-24 17:53:30,079||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:53:30,079||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||19||11111111111111111111
+2018-12-24 17:53:30,084||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:53:30,084||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[b65542fd-77ef-4300-b170-9687764ba805] succeeded in 5.00457087399991s: None
+2018-12-24 17:53:30,085||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:53:30,086||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[538e6862-e287-4a6c-8bdf-4f68c95c3afd] succeeded in 5.006003794000208s: None
+2018-12-24 17:53:35,084||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:53:35,084||ERROR||/home/sinb/not_fork/label/tasks/dms_worker.py||dms_work||21||2222222222222222222222
+2018-12-24 17:53:35,085||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[009d01b7-3902-4b58-84b3-16849ff5e278] succeeded in 5.006221900001037s: None
+2018-12-24 17:53:35,085||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/app/trace.py||info||124||Task tasks.dms_worker.dms_work[2bd96cc6-991a-4231-8684-97853816b381] succeeded in 5.005491298999914s: None
+2018-12-25 09:11:18,125||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection reset by peer
+2018-12-25 09:11:18,127||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||612||Transition to CONNECTING
+2018-12-25 09:11:18,127||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||490||Zookeeper connection lost
+2018-12-25 09:11:18,127||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-25 09:11:18,225||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/consumer/gossip.py||on_node_lost||147||missed heartbeat from celery@5e398b5e70ca
+2018-12-25 09:11:18,225||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/consumer/gossip.py||on_node_lost||147||missed heartbeat from celery@robot-rbm-6c9cd6bddd-kzt79
+2018-12-25 09:11:18,226||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/consumer/gossip.py||on_node_lost||147||missed heartbeat from celery@016b661fa678
+2018-12-25 09:11:18,226||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/consumer/gossip.py||on_node_lost||147||missed heartbeat from celery@smart-collection-ffd6587df-mg5wj
+2018-12-25 09:11:18,226||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/consumer/gossip.py||on_node_lost||147||missed heartbeat from celery@smart-collection-ffd6587df-4mjlx
+2018-12-25 09:11:18,229||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/events/state.py||_warn_drift||113||Substantial drift from celery@5e398b5e70ca may mean clocks are out of sync.  Current drift is
+54553 seconds.  [orig: 2018-12-25 09:11:18.228692 recv: 2018-12-24 18:02:05.845665]
+
+2018-12-25 09:11:18,229||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/events/state.py||_warn_drift||113||Substantial drift from celery@robot-rbm-6c9cd6bddd-kzt79 may mean clocks are out of sync.  Current drift is
+54554 seconds.  [orig: 2018-12-25 09:11:18.229852 recv: 2018-12-24 18:02:04.081894]
+
+2018-12-25 09:11:19,146||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-25 09:11:19,147||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-25 09:11:19,148||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-25 09:11:20,150||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-25 09:11:20,151||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||621||Session has expired
+2018-12-25 09:11:20,151||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||484||Zookeeper session lost, state: EXPIRED_SESSION
+2018-12-25 09:11:20,152||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-25 09:11:20,152||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-25 09:11:20,152||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-25 09:11:20,153||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-25 09:11:21,155||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-25 09:11:21,184||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-25 09:11:23,228||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/consumer/gossip.py||on_node_lost||147||missed heartbeat from celery@5e398b5e70ca
+2018-12-25 09:11:23,228||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/consumer/gossip.py||on_node_lost||147||missed heartbeat from celery@016b661fa678
+2018-12-25 09:11:23,229||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/consumer/gossip.py||on_node_lost||147||missed heartbeat from celery@robot-rbm-6c9cd6bddd-kzt79
+2018-12-25 09:11:23,229||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/consumer/gossip.py||on_node_lost||147||missed heartbeat from celery@smart-collection-ffd6587df-4mjlx
+2018-12-25 09:11:23,229||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/celery/worker/consumer/gossip.py||on_node_lost||147||missed heartbeat from celery@smart-collection-ffd6587df-mg5wj
+2018-12-25 13:06:56,882||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection reset by peer
+2018-12-25 13:06:56,883||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||612||Transition to CONNECTING
+2018-12-25 13:06:56,883||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||490||Zookeeper connection lost
+2018-12-25 13:06:56,883||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-25 13:06:56,884||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-25 13:06:56,884||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-25 13:06:56,885||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-25 13:06:57,887||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-25 13:06:57,888||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-25 13:06:57,888||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-25 13:06:57,890||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||621||Session has expired
+2018-12-25 13:06:57,890||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||484||Zookeeper session lost, state: EXPIRED_SESSION
+2018-12-25 13:06:57,890||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-25 13:06:57,891||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-25 13:06:58,892||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-25 13:06:58,894||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-25 13:06:58,894||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-25 13:06:58,894||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-25 13:06:58,895||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-25 13:06:58,917||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
+2018-12-27 09:01:54,703||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: outstanding heartbeat ping not received
+2018-12-27 09:01:54,703||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||612||Transition to CONNECTING
+2018-12-27 09:01:54,703||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||490||Zookeeper connection lost
+2018-12-27 09:01:55,705||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.81:2182, use_ssl: False
+2018-12-27 09:01:55,706||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-27 09:01:55,707||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.82:2182, use_ssl: False
+2018-12-27 09:01:55,708||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||608||Connection dropped: socket connection error: Connection refused
+2018-12-27 09:01:55,709||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-27 09:01:55,712||WARNING||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect_attempt||621||Session has expired
+2018-12-27 09:01:55,713||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||484||Zookeeper session lost, state: EXPIRED_SESSION
+2018-12-27 09:01:55,713||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/protocol/connection.py||_connect||637||Connecting to 10.10.1.80:2181, use_ssl: False
+2018-12-27 09:01:55,753||INFO||/home/sinb/miniconda3/envs/tgs/lib/python3.6/site-packages/kazoo/client.py||_session_callback||480||Zookeeper connection established, state: CONNECTED
